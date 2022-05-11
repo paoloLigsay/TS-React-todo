@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Typescript React TODO List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TS React training, created a basic todo-list with the following functionality:
+- Add Todo
+- Update Todo
+- Delete Todo
+- Mark Todo as Done
 
 ## Available Scripts
 
